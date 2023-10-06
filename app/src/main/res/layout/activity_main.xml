@@ -24,7 +24,4 @@
         android:layout_marginRight="10dp"
         android:layout_marginLeft="10dp"
         app:srcCompat="@drawable/ic_baseline_person_add_alt_1_24" />
-
-
-
 </FrameLayout>
